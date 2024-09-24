@@ -30,7 +30,7 @@
         <ul>
             <li> 👨🏻‍💻 I'm currently a Freelance Mobile Developer</li>
             <li> 💬 Ask me about React Ask me about anything related to Android & Web Developer</li>
-            <li> 🎓 I'm currently student in Polytechnic State of Jakarta </li>
+            <li> 🎓 I'm currently fresh graduated in Polytechnic State of Jakarta </li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:dwitioahmadpranoto@gmail.com" target="_blank">dwitioahmadpranoto@gmail.com</a></li>
