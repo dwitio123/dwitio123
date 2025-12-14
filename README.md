@@ -28,9 +28,9 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm currently a Freelance Mobile Developer</li>
-            <li> 💬 Ask me about React Ask me about anything related to Android & Web Developer</li>
-            <li> 🎓 I'm currently fresh graduated in Polytechnic State of Jakarta </li>
+            <li> 👨🏻‍💻 I'm currently a full-time Android Developer</li>
+            <li> 💬 Ask me about React Ask me about anything related to Android Developer</li>
+            <li> 🎓 I'm currently studying in BINUS Online </li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:dwitioahmadpranoto@gmail.com" target="_blank">dwitioahmadpranoto@gmail.com</a></li>
