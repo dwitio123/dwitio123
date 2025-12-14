@@ -5,7 +5,7 @@
         src="https://i.ibb.co/3MK0KR4/Programmer-PNG-Free-File-Download.png" width="450"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I am an <b> Android developer</b> 🚀 from <b>Sukabumi, Indonesia</b>
+        I am an <b> Android developer</b> 🚀 from <b>Depok, Indonesia</b>
     </p>
     <div id="header" align="center">
       <div id="badges">
